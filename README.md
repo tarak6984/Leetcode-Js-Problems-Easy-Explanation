@@ -1,3 +1,6 @@
+## dev
+
+```bash
 # get ready
 npm install
 
@@ -9,5 +12,4 @@ npm run create:random
 
 # build
 npm run build
-
-# Feel free to contribute!
+```
